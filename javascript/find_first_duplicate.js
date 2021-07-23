@@ -1,5 +1,9 @@
 function findFirstDuplicate(arr) {
   // type your code here
+  dupes = []
+  (arr).map {
+    
+  }
 }
 
 if (require.main === module) {
