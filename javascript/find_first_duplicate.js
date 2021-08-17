@@ -2,7 +2,7 @@ function findFirstDuplicate(arr) {
   // type your code here
   dupes = []
   (arr).map {
-    
+    test
   }
 }
 
